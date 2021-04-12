@@ -1,4 +1,5 @@
 Simulation of the SGL(Structured Graph Learning) algorithm
+
 Reference: A Unified Framework for Structured Graph Learning via Spectral Constraints
 (Sandeep Kumar, Jiaxi Ying, José Vinícius de M. Cardoso, Daniel Palomar)
 
