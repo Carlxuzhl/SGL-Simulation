@@ -5,7 +5,7 @@ Reference: *A Unified Framework for Structured Graph Learning via Spectral Const
 
 1.scripts
 
-SGL.m: the main algorithm
+SGL.m: the main algorithm \\
 example.m: a tiny example of a 4*4 laplacian matrix input
 twomoon_example.m: an example applying SGL algorithm to cluster the twomoon dataset(k=2)
 
